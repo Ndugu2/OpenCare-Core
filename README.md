@@ -1,4 +1,5 @@
 # OpenCare-Africa
+Looking to help? Check out our [Contributing Guide](./CONTRIBUTING.md)!
 
 A comprehensive health informatics platform backend built with Django, designed specifically for healthcare management in Africa.
 
